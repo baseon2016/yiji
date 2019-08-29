@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-yiji/static/css/main.7d57de0b.chunk.css",
-    "main.js": "/react-yiji/static/js/main.da72611d.chunk.js",
-    "main.js.map": "/react-yiji/static/js/main.da72611d.chunk.js.map",
-    "runtime~main.js": "/react-yiji/static/js/runtime~main.df17a495.js",
-    "runtime~main.js.map": "/react-yiji/static/js/runtime~main.df17a495.js.map",
-    "static/css/2.acb72abc.chunk.css": "/react-yiji/static/css/2.acb72abc.chunk.css",
-    "static/js/2.6c46fe1a.chunk.js": "/react-yiji/static/js/2.6c46fe1a.chunk.js",
-    "static/js/2.6c46fe1a.chunk.js.map": "/react-yiji/static/js/2.6c46fe1a.chunk.js.map",
-    "index.html": "/react-yiji/index.html",
-    "precache-manifest.603a04fb0eca2bffd6935b3f84710bdd.js": "/react-yiji/precache-manifest.603a04fb0eca2bffd6935b3f84710bdd.js",
-    "service-worker.js": "/react-yiji/service-worker.js",
-    "static/css/2.acb72abc.chunk.css.map": "/react-yiji/static/css/2.acb72abc.chunk.css.map",
-    "static/css/main.7d57de0b.chunk.css.map": "/react-yiji/static/css/main.7d57de0b.chunk.css.map",
-    "static/media/iconfont.css": "/react-yiji/static/media/iconfont.dfa01cd3.ttf"
+    "main.css": "/yiji/static/css/main.dc10fbca.chunk.css",
+    "main.js": "/yiji/static/js/main.da72611d.chunk.js",
+    "main.js.map": "/yiji/static/js/main.da72611d.chunk.js.map",
+    "runtime~main.js": "/yiji/static/js/runtime~main.48a7557d.js",
+    "runtime~main.js.map": "/yiji/static/js/runtime~main.48a7557d.js.map",
+    "static/css/2.acb72abc.chunk.css": "/yiji/static/css/2.acb72abc.chunk.css",
+    "static/js/2.6c46fe1a.chunk.js": "/yiji/static/js/2.6c46fe1a.chunk.js",
+    "static/js/2.6c46fe1a.chunk.js.map": "/yiji/static/js/2.6c46fe1a.chunk.js.map",
+    "index.html": "/yiji/index.html",
+    "precache-manifest.56fd4a01247d2b47f4329370414bccea.js": "/yiji/precache-manifest.56fd4a01247d2b47f4329370414bccea.js",
+    "service-worker.js": "/yiji/service-worker.js",
+    "static/css/2.acb72abc.chunk.css.map": "/yiji/static/css/2.acb72abc.chunk.css.map",
+    "static/css/main.dc10fbca.chunk.css.map": "/yiji/static/css/main.dc10fbca.chunk.css.map",
+    "static/media/iconfont.css": "/yiji/static/media/iconfont.dfa01cd3.ttf"
   }
 }
